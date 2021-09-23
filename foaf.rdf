@@ -10,6 +10,6 @@
     <foaf:givenName>Sarra</foaf:givenName>
     <foaf:familyName>Kabouche</foaf:familyName>
     <foaf:mbox rdf:resource="mailto:sarahkabouche98@gmail.com"/>
-    <foaf:homepage rdf:resource="https://sarah-kabouche.github.io/sarahkabouche.github.io/"/>
+    <foaf:homepage rdf:resource="https://sarah-kabouche.github.io/"/>
   </foaf:Person>
 </rdf:RDF>
